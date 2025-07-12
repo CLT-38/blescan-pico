@@ -12,9 +12,9 @@ Ce projet transforme un Raspberry Pi Pico W en un scanner Bluetooth Low Energy (
 - Un câble USB (micro-B vers type A)
 
 ## Logiciel requis
-- Le [firmware MicroPython pour Pico W](https://micropython.org/download/RPI_PICO_W/) installé sur le Raspberry Pico.
-- Le logiciel [Thonny](https://thonny.org/) installé sur le PC.
-- Le code de ce projet : `pico_ble_scan.py`.
+- Le [firmware MicroPython pour Pico W](https://micropython.org/download/RPI_PICO_W/) installé sur le Raspberry Pico. (généralement, le raspberry qu'on te fournit a déjà le bon firmware)
+- Le logiciel [Thonny](https://thonny.org/) installé sur le PC. (vérifie, mais généralement, on t'a déjà préparé le pc avec)
+- Le code de ce projet : [pico_ble_scan.py](pico_ble_scan.py).
 
 ## Connexion
 Reliez le PC (port USB-A) et le Pico W (port micro-USB) avec le câble.
